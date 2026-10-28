@@ -4,4 +4,4 @@ ICE 3 Pair Programming Exercise for MIS 58710.
 
 ## Team Members
 
-- **Santiago Velasquez** Favorite movie: Limitless
+- **Santiago Velasquez** Favorite movie: Shrek
